@@ -1,0 +1,151 @@
+Date,ClientName,CampaignName,Platform,Region,Category,Device,AdType,AgeGroup,Gender,AdSpend,ItemSales,Clicks,Impressions,CTR (%),ConversionRate (%),CostPerClick,CostPerLead,Revenue,ROI (%)
+2025-01-02,Aarav Iyer,ClickFlow,Google Ads,Bangalore,Healthcare,Tablet,Carousel,55+,All,60529,390,57830,572966,7.4,7.88,54.64,572.71,413301,479.58
+2025-01-03,Aarav Rao,LeadEngine,Instagram,Pune,Automobile,Tablet,Carousel,35-44,Male,59928,287,24386,510838,12.88,1.24,16.14,541.57,79207,263.54
+2025-01-04,Vihaan Verma,SalesSurge,Google Ads,Mumbai,Fashion,Tablet,Carousel,55+,Male,146381,1458,43583,648117,11.21,1.55,71.19,475.13,331959,258.21
+2025-01-05,Aarav Joshi,LeadEngine,Meta Ads,Pune,Fashion,Mobile,Banner,35-44,Female,140915,1110,35349,33619,4.77,10.67,28.73,765.62,78965,376.12
+2025-01-08,Aarav Desai,ClickFlow,Meta Ads,Mumbai,E-commerce,Tablet,Carousel,35-44,Female,11705,55,12821,260476,8.94,11.17,18.96,783.12,368710,220.28
+2025-01-11,Aarav Chopra,ClickFlow,LinkedIn,Mumbai,Education,Desktop,Carousel,25-34,Female,6476,1393,31476,436101,10.0,8.62,43.96,141.06,394237,29.61
+2025-01-13,Aarav Banerjee,MarketRise,Meta Ads,Bangalore,Automobile,Mobile,Banner,18-24,All,66020,1305,14085,540961,8.1,11.97,112.61,531.97,557363,327.06
+2025-01-17,Aditya Desai,SalesSurge,YouTube,Mumbai,Education,Tablet,Video,55+,Female,11603,1465,38085,625684,9.85,0.94,38.33,85.48,385375,224.46
+2025-01-24,Aarav Agarwal,ClickFlow,LinkedIn,Mumbai,Healthcare,Tablet,Carousel,45-54,All,34087,605,67937,382133,9.26,8.13,115.28,252.96,317108,180.76
+2025-01-24,Aditya Jain,AdXpress,YouTube,Mumbai,Fashion,Tablet,Search,18-24,Male,91383,1372,39710,262656,8.84,8.69,63.02,84.71,491128,103.01
+2025-01-24,Aditya Joshi,MarketRise,LinkedIn,Pune,Education,Tablet,Carousel,18-24,Male,27241,982,62919,187605,14.04,5.31,22.79,408.8,269747,414.05
+2025-01-25,Vivaan Banerjee,BrandBoost,Google Ads,Indore,Automobile,Tablet,Carousel,25-34,Female,113697,1319,21562,554166,4.27,1.67,16.58,256.23,683718,385.52
+2025-02-02,Aditya Agarwal,AdXpress,YouTube,Bhopal,Education,Mobile,Search,18-24,Female,32629,1217,47282,293149,14.07,5.07,104.18,175.81,626875,142.05
+2025-02-03,Aarav Bose,ClickFlow,Instagram,Mumbai,Automobile,Mobile,Banner,55+,Male,135286,402,1739,29944,0.78,10.17,25.86,513.91,465231,349.15
+2025-02-04,Aditya Khanna,AdXpress,YouTube,Pune,Education,Mobile,Video,18-24,Male,55627,1087,10881,257162,0.58,2.56,31.51,236.18,46663,105.74
+2025-02-05,Vihaan Khan,BrandBoost,Meta Ads,Indore,Fashion,Desktop,Banner,45-54,Female,47196,713,13204,454523,0.93,7.01,27.49,541.02,242507,329.59
+2025-02-08,Arjun Jain,SalesSurge,Instagram,Indore,Education,Desktop,Search,45-54,All,137131,553,5740,238953,4.92,2.18,23.66,153.83,307774,119.2
+2025-02-09,Aarav Kulkarni,ClickFlow,Meta Ads,Delhi,Automobile,Mobile,Carousel,18-24,Female,24411,150,59059,385164,9.79,8.7,55.19,500.91,383534,319.05
+2025-02-10,Aditya Shetty,GrowthSprint,Instagram,Bhopal,Real Estate,Mobile,Video,18-24,Male,96677,833,49709,266521,11.19,2.96,66.56,731.52,60343,304.28
+2025-02-12,Vivaan Ansari,LeadEngine,Meta Ads,Delhi,Automobile,Tablet,Banner,55+,Female,139460,332,48887,131429,4.36,9.96,62.3,185.11,31206,148.99
+2025-02-12,Aditya Ghosh,ClickFlow,YouTube,Delhi,Fashion,Mobile,Video,35-44,Male,51541,331,7422,97549,6.99,2.81,117.43,369.2,395774,428.07
+2025-02-19,Arjun Ansari,GrowthSprint,LinkedIn,Bangalore,Fashion,Desktop,Carousel,35-44,Male,56015,983,64979,232352,9.21,9.5,45.05,414.94,689134,393.64
+2025-02-20,Vihaan Khanna,BrandBoost,Instagram,Indore,Healthcare,Mobile,Video,45-54,Female,5898,216,64987,137524,1.12,1.57,108.27,421.87,665556,168.45
+2025-02-24,Vihaan Gowda,BrandBoost,Google Ads,Mumbai,Fashion,Mobile,Carousel,25-34,Female,115102,515,21847,328407,11.68,6.13,2.5,676.02,87084,73.88
+2025-02-26,Vivaan Khanna,SalesSurge,YouTube,Delhi,E-commerce,Tablet,Carousel,35-44,Female,36477,808,10658,528733,8.53,1.98,84.89,739.04,323404,335.28
+2025-02-27,Aarav Shetty,SalesSurge,Instagram,Pune,Real Estate,Mobile,Carousel,45-54,Male,24649,892,44647,587621,2.32,8.74,31.21,213.19,281409,72.63
+2025-03-02,Vihaan Yadav,AdXpress,Google Ads,Bhopal,E-commerce,Tablet,Search,18-24,Male,9568,1030,66389,673596,5.34,7.66,15.02,562.27,626221,111.74
+2025-03-02,Aditya Reddy,GrowthSprint,YouTube,Bangalore,E-commerce,Desktop,Banner,35-44,All,36500,939,62445,387576,6.75,8.61,119.08,70.33,697208,124.52
+2025-03-08,Arjun Singh,MarketRise,LinkedIn,Bangalore,Fashion,Tablet,Carousel,45-54,All,10977,998,47257,419323,12.59,1.58,116.93,55.64,322706,156.01
+2025-03-14,Vivaan Verma,LeadEngine,Instagram,Delhi,Fashion,Desktop,Search,25-34,All,25915,560,4016,132351,9.12,3.83,46.61,540.61,594766,33.97
+2025-03-15,Vihaan Agarwal,LeadEngine,Instagram,Delhi,Automobile,Tablet,Banner,55+,Female,23558,624,59879,14497,7.01,4.17,16.1,125.81,218347,462.1
+2025-03-15,Vivaan Choudhary,AdXpress,LinkedIn,Bhopal,Fashion,Mobile,Search,55+,Female,135403,934,26383,287186,6.28,1.07,108.03,198.28,337302,100.42
+2025-03-17,Vihaan Banerjee,MarketRise,LinkedIn,Mumbai,Education,Desktop,Banner,25-34,Female,75028,1234,48367,161632,8.54,11.93,81.57,783.21,235871,156.9
+2025-03-21,Aditya Verma,LeadEngine,YouTube,Bhopal,Fashion,Desktop,Search,55+,Male,52375,1336,68434,105956,13.66,9.17,104.16,120.09,269661,20.09
+2025-03-24,Arjun Desai,MarketRise,LinkedIn,Indore,Education,Desktop,Carousel,35-44,Female,97623,174,62980,26408,2.2,8.7,78.49,371.44,596401,225.73
+2025-03-24,Vihaan Shetty,SalesSurge,Meta Ads,Bangalore,Healthcare,Mobile,Carousel,18-24,Female,29904,114,46730,164645,1.36,8.58,49.67,593.5,82717,135.76
+2025-03-27,Vivaan Shetty,LeadEngine,Meta Ads,Delhi,Fashion,Tablet,Search,35-44,Female,5524,114,36480,97590,1.27,7.86,111.73,144.51,471035,153.73
+2025-03-29,Arjun Ghosh,GrowthSprint,YouTube,Indore,Automobile,Mobile,Search,55+,All,144653,1213,21738,195831,10.22,8.47,26.49,507.19,279085,52.33
+2025-03-30,Aarav Choudhary,MarketRise,LinkedIn,Bhopal,Real Estate,Tablet,Carousel,18-24,All,80681,786,31422,238625,13.3,3.44,41.93,190.5,314835,139.9
+2025-04-01,Vihaan Reddy,ClickFlow,Google Ads,Indore,Education,Desktop,Carousel,35-44,Male,24608,166,14892,32154,8.16,1.9,69.93,440.38,119216,283.75
+2025-04-04,Aditya Iyer,GrowthSprint,Meta Ads,Bhopal,Fashion,Desktop,Carousel,25-34,Female,87307,552,2006,293863,12.65,10.41,119.9,572.53,455250,171.28
+2025-04-06,Arjun Bose,MarketRise,Google Ads,Bangalore,Fashion,Desktop,Video,55+,Female,42287,1417,9273,301888,1.96,9.22,52.01,491.8,405919,402.06
+2025-04-08,Aditya Kapoor,MarketRise,LinkedIn,Mumbai,E-commerce,Mobile,Banner,55+,All,36706,66,39576,247914,10.13,6.24,10.16,226.51,553504,38.89
+2025-04-08,Arjun Das,GrowthSprint,Google Ads,Indore,Automobile,Mobile,Carousel,25-34,Male,110532,1273,16553,362200,3.14,7.81,79.6,433.17,156015,16.33
+2025-04-09,Aditya Mukherjee,ClickFlow,LinkedIn,Indore,Fashion,Mobile,Banner,25-34,Male,17401,442,16619,179573,1.5,9.29,105.51,691.31,140973,227.85
+2025-04-10,Aditya Pawar,BrandBoost,Meta Ads,Delhi,Automobile,Mobile,Video,35-44,Female,84533,978,12918,632973,11.61,0.76,53.51,209.33,486563,269.78
+2025-04-11,Vivaan Nair,AdXpress,Google Ads,Indore,Fashion,Tablet,Search,35-44,Female,36449,825,18626,49772,6.15,1.22,113.02,341.81,273475,337.42
+2025-04-15,Vivaan Thakur,ClickFlow,Meta Ads,Indore,E-commerce,Tablet,Video,55+,Male,104332,68,66896,696953,14.26,8.09,56.07,759.22,267677,72.45
+2025-04-17,Arjun Kulkarni,AdXpress,Instagram,Pune,Fashion,Desktop,Search,25-34,Female,141690,1380,35322,156766,13.42,4.99,93.27,734.8,104470,333.38
+2025-04-18,Aarav Ansari,ClickFlow,Meta Ads,Indore,Education,Mobile,Search,25-34,Male,114526,1231,32493,635102,3.89,5.65,77.47,633.83,184078,158.22
+2025-04-20,Aditya Nair,BrandBoost,LinkedIn,Pune,E-commerce,Mobile,Carousel,18-24,All,91394,850,3018,610748,4.78,3.86,65.85,598.5,334724,296.17
+2025-04-20,Arjun Agarwal,GrowthSprint,Instagram,Bangalore,Fashion,Desktop,Carousel,55+,Female,93938,157,30605,99109,13.13,7.12,90.77,379.57,40199,424.51
+2025-04-22,Vivaan Chopra,GrowthSprint,Google Ads,Pune,Education,Mobile,Carousel,18-24,All,93918,633,67437,690701,4.34,4.25,110.3,709.62,98147,114.55
+2025-04-25,Vihaan Singh,SalesSurge,LinkedIn,Delhi,Healthcare,Desktop,Video,45-54,All,120907,279,19552,250685,5.46,2.69,55.9,738.2,321068,110.82
+2025-04-25,Aditya Khan,AdXpress,YouTube,Delhi,Real Estate,Tablet,Video,18-24,Male,77738,1407,2680,653479,0.75,9.43,76.33,573.9,274987,499.31
+2025-04-26,Vihaan Iyer,MarketRise,Meta Ads,Mumbai,Education,Tablet,Banner,55+,Male,65479,865,30784,583459,0.75,8.06,26.12,680.03,166842,76.2
+2025-04-27,Arjun Nair,ClickFlow,YouTube,Bhopal,E-commerce,Desktop,Video,18-24,All,114236,932,22079,624096,3.25,8.0,77.41,58.8,169047,131.22
+2025-04-27,Vihaan Pawar,MarketRise,Meta Ads,Bhopal,Automobile,Tablet,Search,45-54,All,147373,1270,48736,424381,4.01,8.88,36.6,438.99,41208,407.57
+2025-04-29,Arjun Sharma,LeadEngine,Meta Ads,Bhopal,Automobile,Tablet,Search,18-24,Male,139846,1388,60889,552423,10.91,4.81,114.74,798.3,581673,448.74
+2025-04-30,Vivaan Mukherjee,ClickFlow,YouTube,Bhopal,Healthcare,Desktop,Banner,25-34,Male,74919,1306,49006,678581,9.87,10.95,46.94,147.8,243423,389.04
+2025-05-02,Aarav Khanna,SalesSurge,YouTube,Bhopal,E-commerce,Desktop,Banner,45-54,All,88839,626,69662,49247,12.66,1.43,66.53,129.9,528870,41.74
+2025-05-03,Vihaan Patel,ClickFlow,Instagram,Mumbai,Automobile,Desktop,Search,55+,Male,139489,1358,6728,399662,8.28,8.86,65.62,447.49,322562,424.1
+2025-05-05,Vihaan Ansari,GrowthSprint,Meta Ads,Mumbai,Real Estate,Mobile,Video,18-24,Female,144851,297,59452,73884,11.32,3.86,40.92,652.15,302524,260.5
+2025-05-07,Vihaan Das,SalesSurge,Instagram,Mumbai,Fashion,Tablet,Search,18-24,Male,115780,63,37638,246213,13.43,1.81,95.86,796.05,369744,432.23
+2025-05-09,Vihaan Desai,LeadEngine,LinkedIn,Bhopal,Fashion,Tablet,Search,45-54,All,134553,453,64670,30129,12.35,10.0,105.33,413.99,194287,316.03
+2025-05-10,Aarav Patel,AdXpress,YouTube,Delhi,Fashion,Desktop,Carousel,55+,Male,143687,1391,7418,544154,1.65,2.89,79.87,196.6,610864,389.03
+2025-05-11,Vihaan Kapoor,BrandBoost,Instagram,Bangalore,Healthcare,Tablet,Carousel,18-24,All,121949,1441,3353,314566,11.0,7.81,42.54,521.67,378606,287.38
+2025-05-12,Vivaan Khan,MarketRise,Instagram,Mumbai,Real Estate,Tablet,Search,35-44,Male,84044,1371,1800,72613,7.6,7.81,26.38,160.13,141173,51.17
+2025-05-14,Vivaan Rao,SalesSurge,Google Ads,Mumbai,Education,Desktop,Carousel,45-54,Female,80048,1227,58870,24997,13.79,1.2,109.27,796.79,607565,427.28
+2025-05-15,Vihaan Bose,MarketRise,Instagram,Indore,Automobile,Mobile,Search,35-44,Female,50722,69,5636,136065,10.5,7.59,7.54,704.24,294057,239.95
+2025-05-16,Aditya Thakur,BrandBoost,Google Ads,Bhopal,E-commerce,Tablet,Banner,35-44,All,91167,762,1928,485064,13.73,5.73,50.03,526.13,156803,331.78
+2025-05-16,Aditya Patel,ClickFlow,Instagram,Delhi,E-commerce,Tablet,Banner,18-24,Male,116051,1282,65074,182109,10.45,3.92,70.35,247.41,528840,10.39
+2025-05-20,Aarav Yadav,ClickFlow,LinkedIn,Pune,Fashion,Tablet,Video,35-44,Male,23660,721,44194,131711,3.42,6.79,94.55,422.58,579306,122.25
+2025-05-21,Vivaan Joshi,BrandBoost,LinkedIn,Mumbai,Real Estate,Mobile,Video,25-34,Female,55254,673,46486,23711,9.4,2.2,93.53,405.03,365842,403.74
+2025-05-31,Aditya Rao,GrowthSprint,LinkedIn,Bangalore,Fashion,Mobile,Video,18-24,Male,94638,372,29318,308877,9.86,2.19,28.33,591.07,565451,139.28
+2025-06-06,Arjun Choudhary,AdXpress,Instagram,Bhopal,Real Estate,Mobile,Video,18-24,Male,149768,1018,52067,606024,12.79,4.32,74.86,454.12,415361,430.25
+2025-06-15,Vivaan Pawar,SalesSurge,YouTube,Mumbai,Automobile,Desktop,Banner,55+,Male,114146,1296,48097,126414,3.76,7.06,3.81,142.77,296523,493.43
+2025-06-17,Arjun Iyer,AdXpress,Google Ads,Indore,E-commerce,Desktop,Carousel,45-54,Male,129000,850,61846,600563,13.2,2.4,45.87,311.52,243569,453.68
+2025-06-17,Aarav Nair,ClickFlow,Instagram,Bhopal,Healthcare,Tablet,Video,18-24,Female,129124,1351,46628,33701,7.65,3.34,8.58,60.96,531646,218.92
+2025-06-21,Arjun Khan,LeadEngine,Instagram,Bangalore,Automobile,Tablet,Banner,45-54,Male,111355,123,7568,183753,14.08,6.35,47.02,750.26,287235,27.66
+2025-06-22,Vivaan Iyer,AdXpress,YouTube,Bangalore,Automobile,Tablet,Search,45-54,Male,110555,816,11430,451743,1.01,6.36,60.6,173.93,371368,165.27
+2025-06-28,Aditya Singh,GrowthSprint,LinkedIn,Pune,Education,Tablet,Banner,35-44,All,78728,109,63886,194947,4.4,8.76,101.98,326.04,228291,370.63
+2025-07-01,Vihaan Kulkarni,MarketRise,LinkedIn,Indore,Automobile,Tablet,Search,55+,Female,46726,277,49970,91183,11.06,8.08,43.25,241.05,326443,499.22
+2025-07-01,Vihaan Mukherjee,GrowthSprint,Instagram,Bhopal,Healthcare,Tablet,Search,18-24,Female,6361,1353,6878,178411,4.93,2.84,28.46,81.57,522345,66.56
+2025-07-07,Aarav Jain,AdXpress,LinkedIn,Bhopal,Healthcare,Desktop,Banner,18-24,Female,106655,177,8550,13857,7.09,4.97,44.3,414.49,614956,99.97
+2025-07-08,Aarav Reddy,BrandBoost,YouTube,Mumbai,Real Estate,Mobile,Video,18-24,Female,27977,560,51163,330879,2.28,7.71,102.35,315.87,691478,257.95
+2025-07-10,Aarav Gupta,SalesSurge,Meta Ads,Indore,Education,Mobile,Video,45-54,All,26333,1317,64664,245135,2.93,11.78,112.17,367.68,385246,248.63
+2025-07-12,Arjun Gupta,LeadEngine,Instagram,Delhi,Automobile,Desktop,Banner,18-24,Female,94117,1177,7174,109556,9.52,3.69,113.28,646.23,292536,117.28
+2025-07-13,Vivaan Patel,MarketRise,Instagram,Mumbai,Education,Mobile,Video,55+,Male,142885,757,19895,417948,10.43,1.93,86.2,492.32,552133,390.53
+2025-07-16,Aditya Ansari,ClickFlow,LinkedIn,Pune,Real Estate,Mobile,Search,55+,Female,138312,913,64399,201374,3.79,1.83,26.98,308.68,353001,152.29
+2025-07-19,Aditya Sharma,AdXpress,LinkedIn,Delhi,Fashion,Tablet,Search,45-54,Male,45424,485,45371,465188,10.14,9.17,6.53,580.63,468627,301.38
+2025-07-20,Vihaan Ghosh,BrandBoost,Instagram,Bhopal,Fashion,Desktop,Search,25-34,Male,111704,356,23106,180496,6.77,2.39,7.19,786.71,140458,320.0
+2025-07-20,Aditya Das,MarketRise,YouTube,Bhopal,E-commerce,Mobile,Video,25-34,Male,83159,319,51375,391846,2.41,5.3,47.98,655.15,243955,427.17
+2025-07-20,Aarav Verma,ClickFlow,LinkedIn,Indore,E-commerce,Tablet,Carousel,18-24,Female,104777,142,42194,304845,2.68,2.89,14.76,713.49,663039,176.86
+2025-07-21,Aditya Choudhary,AdXpress,LinkedIn,Mumbai,Education,Tablet,Search,18-24,All,67296,1213,48497,500658,14.58,10.09,58.41,557.3,651969,105.65
+2025-07-23,Aditya Banerjee,GrowthSprint,YouTube,Delhi,Fashion,Mobile,Search,45-54,Female,27339,602,15302,120162,1.78,11.91,38.65,261.98,236715,217.67
+2025-07-26,Vivaan Sharma,SalesSurge,Google Ads,Bangalore,Education,Desktop,Carousel,25-34,All,125340,835,35779,257471,3.79,5.86,57.32,311.29,521048,136.22
+2025-08-01,Aarav Singh,GrowthSprint,YouTube,Bangalore,Education,Tablet,Banner,35-44,All,37247,1135,28218,324237,14.17,9.03,13.59,262.5,647236,119.77
+2025-08-04,Vivaan Reddy,GrowthSprint,YouTube,Indore,E-commerce,Desktop,Carousel,45-54,Female,144135,1415,49421,409126,10.96,10.75,93.88,570.63,618252,125.58
+2025-08-06,Aarav Mukherjee,BrandBoost,Meta Ads,Indore,E-commerce,Mobile,Banner,35-44,Female,140352,535,7546,582101,6.79,5.89,48.52,785.96,163806,225.17
+2025-08-10,Aarav Pawar,MarketRise,Google Ads,Bhopal,Automobile,Tablet,Banner,55+,Male,16979,1425,12671,690949,9.05,8.13,87.06,570.65,263884,329.53
+2025-08-13,Aditya Gupta,GrowthSprint,Google Ads,Bhopal,Healthcare,Desktop,Search,45-54,All,90279,96,6593,600538,12.36,8.36,52.31,77.34,363689,229.88
+2025-08-14,Aditya Bose,ClickFlow,Instagram,Pune,Automobile,Tablet,Search,55+,Female,28647,483,46696,62586,9.03,5.74,99.87,257.75,425009,254.31
+2025-08-14,Vihaan Choudhary,BrandBoost,Instagram,Mumbai,Healthcare,Desktop,Banner,35-44,Male,131974,314,49276,384130,10.71,11.73,67.2,720.55,197346,183.36
+2025-08-16,Aditya Kulkarni,MarketRise,YouTube,Indore,E-commerce,Mobile,Video,18-24,Female,59956,817,60687,372209,11.49,1.49,87.77,375.79,51004,278.93
+2025-08-18,Vivaan Agarwal,ClickFlow,Google Ads,Bangalore,Healthcare,Desktop,Banner,55+,Male,92658,910,57408,666189,12.86,9.28,86.13,396.25,78930,146.8
+2025-08-20,Arjun Mukherjee,MarketRise,YouTube,Delhi,Fashion,Tablet,Video,35-44,Female,22875,919,23422,92064,2.59,5.28,70.01,525.16,434237,31.23
+2025-08-20,Vihaan Chopra,LeadEngine,YouTube,Pune,Education,Tablet,Search,18-24,Female,23170,545,18378,154435,13.77,9.84,15.43,521.74,198601,321.39
+2025-08-20,Vivaan Yadav,BrandBoost,Google Ads,Delhi,Real Estate,Mobile,Carousel,35-44,All,65929,1004,5427,195302,2.88,11.05,8.92,716.62,402834,25.15
+2025-08-23,Vivaan Kapoor,AdXpress,YouTube,Delhi,Fashion,Mobile,Banner,35-44,All,37082,671,19642,674766,2.89,7.29,99.78,494.12,234777,204.31
+2025-08-24,Arjun Khanna,MarketRise,Meta Ads,Pune,Education,Mobile,Video,35-44,All,96848,1373,18515,49575,2.83,6.55,66.31,413.59,556885,94.89
+2025-08-26,Aarav Ghosh,LeadEngine,LinkedIn,Bangalore,Automobile,Tablet,Carousel,35-44,Female,42450,775,9927,563311,8.89,6.94,9.44,441.78,648892,283.87
+2025-08-29,Vivaan Das,MarketRise,LinkedIn,Bangalore,Education,Tablet,Banner,45-54,Female,57482,806,15484,547991,12.61,11.05,113.17,746.08,363072,82.14
+2025-08-31,Arjun Thakur,SalesSurge,YouTube,Bangalore,Education,Mobile,Banner,55+,Male,61559,735,17819,491745,5.06,4.36,70.3,76.08,170052,240.75
+2025-08-31,Vihaan Gupta,BrandBoost,LinkedIn,Mumbai,Education,Tablet,Carousel,35-44,Male,31298,952,3525,695972,10.8,1.32,13.21,371.63,596664,211.43
+2025-09-01,Vivaan Desai,SalesSurge,YouTube,Bangalore,E-commerce,Desktop,Banner,25-34,Female,86358,695,37706,204268,3.79,2.03,87.4,638.68,370536,208.03
+2025-09-01,Vivaan Singh,AdXpress,Google Ads,Bangalore,Real Estate,Desktop,Banner,25-34,Male,42116,450,33689,545342,1.25,5.98,81.08,559.24,646137,300.54
+2025-09-04,Vivaan Gupta,SalesSurge,Meta Ads,Bangalore,Fashion,Mobile,Video,45-54,All,48154,669,46393,546987,14.89,4.33,62.9,577.4,359132,254.15
+2025-09-04,Vivaan Ghosh,SalesSurge,Instagram,Delhi,Automobile,Desktop,Search,18-24,Male,62724,932,13002,184474,2.43,7.12,85.05,442.5,202226,348.66
+2025-09-04,Arjun Joshi,GrowthSprint,LinkedIn,Mumbai,Fashion,Mobile,Banner,45-54,Female,44998,275,60889,222979,4.78,7.55,8.08,578.91,333933,495.92
+2025-09-04,Vivaan Bose,MarketRise,Google Ads,Indore,Healthcare,Desktop,Banner,25-34,Male,60016,34,57690,500532,4.26,10.23,102.99,298.67,637513,191.11
+2025-09-05,Vihaan Thakur,ClickFlow,Instagram,Pune,Real Estate,Mobile,Video,35-44,All,12449,459,66544,635578,13.15,10.53,40.99,202.56,597147,241.04
+2025-09-06,Arjun Rao,ClickFlow,Instagram,Indore,Education,Tablet,Carousel,55+,All,8657,1203,19249,592008,6.83,10.23,73.45,558.77,72080,299.13
+2025-09-07,Arjun Shetty,LeadEngine,Google Ads,Delhi,Fashion,Mobile,Banner,55+,Male,106086,1176,57035,234650,12.76,5.92,47.84,393.37,270671,257.14
+2025-09-07,Vivaan Gowda,SalesSurge,Meta Ads,Pune,Education,Desktop,Search,25-34,All,92095,504,57119,606543,14.7,2.69,21.83,348.02,167862,147.21
+2025-09-10,Arjun Reddy,BrandBoost,Instagram,Pune,E-commerce,Mobile,Carousel,55+,All,52721,427,8349,456842,13.47,10.83,56.66,154.44,122693,132.6
+2025-09-11,Aditya Gowda,BrandBoost,Meta Ads,Mumbai,E-commerce,Tablet,Banner,35-44,Female,107333,436,42753,694240,8.63,8.12,31.85,599.69,44888,164.35
+2025-09-14,Arjun Pawar,MarketRise,YouTube,Pune,Education,Desktop,Banner,18-24,All,88892,1335,776,535376,3.64,4.19,8.24,198.37,552932,147.92
+2025-09-21,Aditya Yadav,AdXpress,Meta Ads,Mumbai,Healthcare,Tablet,Search,55+,All,149376,196,542,329519,0.74,9.46,58.8,201.89,220201,134.68
+2025-09-22,Aarav Kapoor,LeadEngine,LinkedIn,Mumbai,Automobile,Mobile,Carousel,35-44,Male,101932,742,25432,528198,4.94,6.25,113.58,794.75,651343,37.52
+2025-09-26,Vivaan Kulkarni,LeadEngine,YouTube,Pune,Education,Desktop,Video,25-34,Male,87770,274,15073,303663,7.98,7.61,17.64,383.8,388129,499.03
+2025-09-28,Vihaan Nair,MarketRise,LinkedIn,Mumbai,Automobile,Desktop,Search,25-34,All,78152,89,23700,226977,8.16,2.78,66.56,520.08,410231,470.18
+2025-09-30,Vihaan Sharma,ClickFlow,Google Ads,Pune,Fashion,Desktop,Video,25-34,All,79974,834,35115,388137,2.28,11.38,28.35,365.37,191349,375.23
+2025-09-30,Vihaan Jain,GrowthSprint,Meta Ads,Indore,E-commerce,Tablet,Carousel,35-44,All,141697,1449,57648,178007,11.37,6.89,12.92,415.87,556025,421.78
+2025-10-02,Arjun Chopra,BrandBoost,YouTube,Pune,Education,Mobile,Banner,25-34,All,32550,761,54104,159261,2.62,4.23,42.1,262.96,262170,155.24
+2025-10-15,Arjun Yadav,AdXpress,Instagram,Delhi,Real Estate,Tablet,Carousel,25-34,Male,6383,978,68941,370953,6.22,5.65,35.56,160.82,56622,419.0
+2025-10-16,Vihaan Joshi,MarketRise,YouTube,Delhi,Fashion,Tablet,Video,45-54,All,84993,386,54576,384922,1.84,6.59,44.57,496.62,187454,480.78
+2025-10-20,Arjun Patel,SalesSurge,Instagram,Bangalore,Healthcare,Desktop,Video,55+,Male,87586,490,35810,267951,0.79,2.35,52.89,74.49,652257,330.8
+2025-10-21,Aarav Sharma,SalesSurge,Meta Ads,Indore,Automobile,Tablet,Video,25-34,All,127397,560,3329,371262,10.28,11.78,37.25,165.44,70958,235.73
+2025-10-24,Aditya Chopra,AdXpress,Meta Ads,Bangalore,Fashion,Mobile,Search,18-24,All,144375,991,41214,70106,10.94,0.56,30.29,336.86,439282,268.45
+2025-10-25,Aarav Gowda,BrandBoost,Instagram,Bangalore,Automobile,Desktop,Video,35-44,All,43045,931,2208,140766,14.33,1.41,8.63,128.79,48520,50.01
+2025-10-27,Aarav Das,LeadEngine,Instagram,Pune,Education,Desktop,Search,25-34,All,148850,451,32233,94579,8.58,2.53,77.6,110.92,623569,336.42
+2025-10-30,Aarav Thakur,SalesSurge,Instagram,Delhi,E-commerce,Mobile,Banner,18-24,Female,28608,402,54623,412991,8.58,7.79,112.59,295.03,419993,247.94
+2025-10-30,Arjun Verma,SalesSurge,LinkedIn,Bangalore,Real Estate,Desktop,Carousel,45-54,All,45832,1252,20546,499230,7.16,1.78,72.87,260.59,368723,306.08
+2025-10-31,Arjun Gowda,MarketRise,Google Ads,Mumbai,Automobile,Tablet,Banner,45-54,All,71533,896,47486,125325,12.02,7.79,77.93,281.29,380841,383.16
+2025-11-05,Vivaan Jain,LeadEngine,Meta Ads,Bhopal,Fashion,Mobile,Carousel,55+,All,146376,434,21523,133258,10.12,1.44,92.71,194.24,209081,395.93
+2025-11-15,Arjun Banerjee,LeadEngine,LinkedIn,Mumbai,E-commerce,Desktop,Search,25-34,All,15819,967,49773,272370,1.92,11.31,97.06,651.65,627326,425.1
+2025-11-17,Arjun Kapoor,AdXpress,Google Ads,Bangalore,Fashion,Desktop,Search,35-44,Female,70810,1360,67399,485451,12.15,11.41,114.84,309.84,315696,288.6
+2025-11-25,Vihaan Rao,LeadEngine,Google Ads,Delhi,Real Estate,Desktop,Carousel,45-54,All,138258,1290,41433,83403,8.55,1.93,113.33,123.92,647939,482.42
+2025-11-28,Aarav Khan,LeadEngine,LinkedIn,Bhopal,Real Estate,Mobile,Video,55+,Male,125259,35,15587,272837,10.77,2.71,110.61,515.96,262791,425.07
